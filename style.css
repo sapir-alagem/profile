@@ -1,0 +1,85 @@
+body {
+  background-color: #EADEA6;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1, h3 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h1 {
+  font-size: 28px;
+  margin:30px;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-size: 26px;
+  font-weight: 250;
+  margin: 18;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #E47312;
+}
+
+.btn {
+    border-color: coral;
+    border-style: solid;
+    border-width: medium;
+    padding: 5px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+p {
+  text-align: center;
+}
+
+.banner {
+  text-align: center;
+}
+
+#banner_img {
+  padding: 20px;
+  height: 300px;
+  width: 600px;
+  object-fit: cover;
+}
+
+.crads {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: #EDDA8E;
+  text-align: center;
+}
+
+.crad_pic {
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1)
+}
+
+.crad_pic:hober {
+
+}
+
+.footer {
+  background-color: #f2f4c3;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer div {
+  display: inline-block;
+  padding: 15px;
+}
